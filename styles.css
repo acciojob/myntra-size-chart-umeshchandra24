@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+table,tr,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width:500px;
+    height: 15px;
+}
+.data td{
+    padding-left: 72px;
+}
+.data .head-data{
+    padding-left: 0px;
+    padding-right: 55px;
+}
+
